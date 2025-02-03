@@ -1,0 +1,8 @@
+favouriteDrink: Coffee
+favouriteFood: Pizza
+genericConfig: |
+  # generic config section start
+  settings line 1 
+  settings line 2
+  settings line 3
+  # generic config section end

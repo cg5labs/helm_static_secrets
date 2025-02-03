@@ -1,0 +1,6 @@
+apiVersion: v2
+name: demo2
+description: Sample Helm Chart for static config file management using k8s secrets
+type: application
+version: 0.1.0
+appVersion: "1.1.0"

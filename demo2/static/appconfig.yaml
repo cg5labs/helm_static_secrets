@@ -1,0 +1,7 @@
+# static config.yml -- inject env values using pipeline variable substitution
+Foods:  Burgers
+Generics: 
+  - key1:
+    subkey1: "${DB_USER}"
+    subkey2: value1
+Drinks: "EspressoMartini,,Mojito"
